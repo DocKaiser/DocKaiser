@@ -1,17 +1,17 @@
-<h1 align="center">Olá! Eu sou o Gabriel Maia Sousa 👋 </h1>
-<h3 align="center">Apaixonado por tecnologia e estudando pra ser Desenvolvedor Full Stack</h3>
+<h1 align="center">👋 Olá! Eu sou o Gabriel Maia Sousa</h1>
+<h3 align="center">💻 Apaixonado por tecnologia e estudando pra ser Desenvolvedor Full Stack 🚀</h3>
 
 ---
 
-### Sobre mim
+### 🙋‍♂️ Sobre mim
 
-- Estou estudando **Python**, **JavaScript**, **HTML** e **CSS**.
-- Meu objetivo é me tornar um desenvolvedor full stack.
-- Gosto de aprender criando coisas, errando, quebrando, consertando e tentando de novo.
+- 📚 Estou estudando **Python**, **JavaScript**, **HTML** e **CSS**.
+- 🎯 Meu objetivo é me tornar um desenvolvedor full stack.
+- 🛠️ Gosto de aprender criando coisas, errando, quebrando, consertando e tentando de novo.
 
 ---
 
-### Minhas Estatísticas:
+### 📊 Minhas Estatísticas:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocKaiser&show_icons=true&theme=tokyonight"/>
@@ -20,7 +20,7 @@
 
 ---
 
-### Tecnologias que estou aprendendo
+### 🧠 Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -31,7 +31,7 @@
 
 ---
 
-### Onde me encontrar:
+### 🌐 Onde me encontrar:
 
 [![Discord](https://img.shields.io/badge/Discord-DocKaiser%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/727826330971799605)  
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DocKaiser)  
@@ -41,7 +41,7 @@
 
 ---
 
-<p align="center">Status do perfil:</p>
+<p align="center">📈 Status do perfil:</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DocKaiser&label=Visualizações&color=0e75b6&style=flat" alt="perfil" />
 </p>
