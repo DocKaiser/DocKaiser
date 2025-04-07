@@ -1,5 +1,4 @@
-## Hallo! 👋
-<h1 align="center">Olá! Eu sou o Gabriel Maia Sousa </h1>
+<h1 align="center">Olá! Eu sou o Gabriel Maia Sousa 👋 </h1>
 <h3 align="center">Apaixonado por tecnologia e estudando pra ser Desenvolvedor Full Stack</h3>
 
 ---
