@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Gabriel Maia Sousa</h1>
-<h3 align="center">💻 Apaixonado por tecnologia e estudando pra ser Desenvolvedor Full Stack 🚀</h3>
+<h3 align="center">💻 Apaixonado por tecnologia, artista e estudando pra ser Desenvolvedor Full Stack 🚀</h3>
 
 ---
 
@@ -8,6 +8,7 @@
 - 📚 Estou estudando **Python**, **JavaScript**, **HTML** e **CSS**.
 - 🎯 Meu objetivo é me tornar um desenvolvedor full stack.
 - 🛠️ Gosto de aprender criando coisas, errando, quebrando, consertando e tentando de novo.
+- 🏛️ Finalizando o **3º ano do curso técnico integrado ao ensino médio em Redes de Computadores no IFTO**.
 
 ---
 
