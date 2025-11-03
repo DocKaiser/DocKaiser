@@ -1,14 +1,15 @@
 <h1 align="center">👋 Olá! Eu sou o Gabriel Maia Sousa</h1>
-<h3 align="center">💻 Apaixonado por tecnologia, artista e estudando pra ser Desenvolvedor Full Stack 🚀</h3>
+<h3 align="center">💻 Tecnico em Rede de Computadores pelo IFTO-Araguatins</h3>
 
 ---
 
-### 🙋‍♂️ Sobre mim
+### Sobre mim
 
-- 📚 Estou estudando **Python**, **JavaScript**, **HTML** e **CSS**.
-- 🎯 Meu objetivo é me tornar um desenvolvedor full stack.
-- 🛠️ Gosto de aprender criando coisas, errando, quebrando, consertando e tentando de novo.
-- 🏛️ Finalizando o **3º ano do curso técnico integrado ao ensino médio em Redes de Computadores no IFTO**.
+Estou finalizando minha formação técnica em Redes de Computadores pelo IFTO e, simultaneamente, direcionando meus estudos para o desenvolvimento de software.
+
+Minha meta é me tornar um Desenvolvedor Full Stack. Para isso, estou me aprofundando nas principais tecnologias do mercado, como Python (para back-end) e o conjunto JavaScript, HTML e CSS (para front-end).
+
+Acredito que a melhor forma de evoluir é através da prática constante: construindo projetos, analisando o código, corrigindo erros e buscando otimizações.
 
 ---
 
@@ -34,7 +35,6 @@
 
 ### 🌐 Onde me encontrar:
 
-[![Discord](https://img.shields.io/badge/Discord-DocKaiser%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/727826330971799605)  
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DocKaiser)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dockkaiser)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DuckKaiser)  
