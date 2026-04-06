@@ -42,6 +42,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFTO Araguaína e Té
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocKaiser&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
+
 ---
 
 ### 🌐 Conecte-se | Connect with me
