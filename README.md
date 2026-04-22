@@ -30,10 +30,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFTO Araguaína e Té
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="40"/>
 </div>
+
 ---
+
 ###  📊 Estatísticas | Stats
 
-<div align="center flex pd-3">
+<div align="center flex margin-6px">
   <table>
     <tr>
       <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DocKaiser&theme=tokyonight&hide_border=true" /></td>
@@ -41,6 +43,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFTO Araguaína e Té
     </tr>
   </table>
 </div>
+
 ---
 
 ### 🌐 Conecte-se | Connect with me
