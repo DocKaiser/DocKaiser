@@ -22,7 +22,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFTO Araguaína e Té
 
 ### 🛠️ Tecnologias | Stack
 
-<div align="left">
+<div align="left flex">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" height="40"/>&nbsp;
@@ -33,7 +33,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFTO Araguaína e Té
 ---
 ###  📊 Estatísticas | Stats
 
-<div align="center">
+<div align="center flex pd-3">
   <table>
     <tr>
       <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DocKaiser&theme=tokyonight&hide_border=true" /></td>
