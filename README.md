@@ -22,25 +22,25 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFTO Araguaína e Té
 
 ### 🛠️ Tecnologias | Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="30"/>
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="40"/>
+</div>
 ---
 ###  📊 Estatísticas | Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DocKaiser&theme=tokyonight&hide_border=true" />
+  <table>
+    <tr>
+      <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DocKaiser&theme=tokyonight&hide_border=true" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocKaiser&layout=compact&theme=tokyonight&hide=html,css" /></td>
+    </tr>
+  </table>
 </div>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocKaiser&layout=compact&theme=tokyonight&hide=html,css" />
-</div>
-
 ---
 
 ### 🌐 Conecte-se | Connect with me
